@@ -1,4 +1,4 @@
-# getboxkite-com
+# Boxkite
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,129 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-getboxkite-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://getboxkite.com/
+Boxkite, operated by Analog Tech Ltd in New Zealand, provides automated backup services for accounting platforms such as Xero, QuickBooks Online, and Employment Hero. Since 2014, it securely copies financial data to cloud storage options like Dropbox, Google Drive, or OneDrive, offering both continuous sync and one‑off ZIP downloads. The service targets small to medium businesses, emphasizing data ownership, compliance, and ease of restoration.
+
+**Areas:** Accounting · Backup · Cloud Storage · New Zealand · Small Business
+
+## Boxkite on APIs.io
+
+Everything profiled for Boxkite is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/getboxkite-com/](https://apis.io/providers/getboxkite-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Boxkite Exports API](https://apis.io/apis/getboxkite-com/getboxkite-com-exports-api/) — The Exports API from Boxkite — 5 operation(s) for exports.
+- [Boxkite Organisations API](https://apis.io/apis/getboxkite-com/getboxkite-com-organisations-api/) — The Organisations API from Boxkite — 1 operation(s) for organisations.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Boxkite Agentic Access](https://apis.io/agentic-access/getboxkite-com/getboxkite-com-agentic-access/)
+
+#### JSON Schema (3)
+
+The data models the API reads and writes.
+
+- [Export](https://apis.io/schemas/getboxkite-com/getboxkite-com-export/)
+- [Manifest](https://apis.io/schemas/getboxkite-com/getboxkite-com-manifest/)
+- [Organisation](https://apis.io/schemas/getboxkite-com/getboxkite-com-organisation/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Getboxkite Com Context](https://apis.io/jsonld/getboxkite-com/getboxkite-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Boxkite API Rules](https://apis.io/rules/getboxkite-com/getboxkite-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Boxkite Authentication](https://apis.io/security/getboxkite-com/getboxkite-com-authentication/)
+- [Boxkite Domain Security](https://apis.io/security/getboxkite-com/getboxkite-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Boxkite Plans Pricing](https://apis.io/plans/getboxkite-com/getboxkite-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.getboxkite.com/)
+- [Documentation](https://www.getboxkite.com/blog/category/guides)
+- [Getting started](https://www.getboxkite.com/blog/client-onboarding-best-practices-for-xero-advisors)
+- [API reference](https://www.getboxkite.com/llms.txt)
+- [Pricing](https://www.getboxkite.com/pricing)
+- [Support](https://www.getboxkite.com/support)
+- [Blog](https://www.getboxkite.com/blog)
+- [Security](https://www.getboxkite.com/blog/category/security)
+- [Terms of service](https://www.getboxkite.com/terms)
+- [Privacy policy](https://www.getboxkite.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 55.6** — strong · rubric 0.27.0 · scored 2026-11-10
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 56.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 54.0 |
+| Access clarity | 60.0 |
+
+**Agent readiness 44.8** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/getboxkite-com/](https://apis.io/providers/getboxkite-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Boxkite: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/getboxkite-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
